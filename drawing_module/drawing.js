@@ -7,3 +7,4 @@ These points are rendered as lines using the selected color, thickness, and styl
 The drawing updates continuously to give smooth, natural feedback to the user.
 
 All strokes are saved so the drawing can be edited, cleared, or restored later.
+jordar!!!!!
